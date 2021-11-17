@@ -6,3 +6,6 @@
 
 **** Tickets de arreglos **** (A#)
 1 - Agregar paginas (en construccion) y editar links del menu.
+
+**** Tickets de rapidos generales **** (R#)
+1 - Agregar .gitignore
