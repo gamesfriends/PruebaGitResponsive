@@ -1,11 +1,12 @@
 **** Tickets de caracterisiticas **** (T#)
 
-1 - Agregado de menu de navegacion
+1 - Agregado de menu de navegacion.
 2 - Adaptar menu a pantallas.
 3 - Terminar menu.
+4 - Agregar tarjetas de productos.
 
 **** Tickets de arreglos **** (A#)
 1 - Agregar paginas (en construccion) y editar links del menu.
 
 **** Tickets de rapidos generales **** (R#)
-1 - Agregar .gitignore
+1 - Agregar .gitignore.

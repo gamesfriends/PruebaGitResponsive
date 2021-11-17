@@ -3,6 +3,14 @@
     padding: 0;
 }
 
+img {
+    max-width: 100%;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
 .mainMenu {
     background-color: #6495ed;
 }
@@ -43,6 +51,14 @@
     text-align: center;
 }
 
+.card {
+    width: 280px;
+}
+
+.card-image img {
+    height: 200px;
+}
+
 @media (min-width: 1200px) {
     .mainMenu-cntEmpresa {
         display: none;
@@ -57,5 +73,11 @@
         color: #000;
         text-decoration: none;
         font-weight: bold;
+    }
+
+    .cntCards {
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 10px;
     }
 }
